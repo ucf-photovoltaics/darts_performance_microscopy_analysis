@@ -1,1 +1,5 @@
-Uhhhhhhhh put required Python libraries like Pandas in here
+pandas
+seaborn
+matplotlib
+numpy
+sys
